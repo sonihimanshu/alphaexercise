@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alpha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node alpha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.4",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.11"
+  }
+}
